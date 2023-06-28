@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Landing Page",
+    title: "Landing Page ",
     description:
       "Landing Page-Pizaria best piza around the world.",
     url: "https://pranjalimishra21.github.io/OIBGRIP/"",
